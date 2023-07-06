@@ -35,5 +35,3 @@ If you prefer to train your own YOLO model, please refer to the "Training" secti
 To create your own training dataset, capture images of newspapers and use any annotation software to annotate the images in a YOLO-compatible format.
 
 Ensure that you carefully follow the instructions and adjust the code to suit your specific needs.
-
-Feel free to customize and enhance the project description based on the specific details and requirements of your own project.
